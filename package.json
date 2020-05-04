@@ -1,0 +1,20 @@
+{
+  "name": "express-rest-firestore-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "firebase-admin": "^8.11.0"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2"
+  }
+}
